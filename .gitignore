@@ -121,3 +121,6 @@ dist/protocol.schema.json
 
 # Synthing
 **/.stfolder/
+
+# Cursor local rules (user-specific, not committed)
+.cursor/rules/*.local.mdc
